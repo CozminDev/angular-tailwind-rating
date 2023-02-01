@@ -4,7 +4,17 @@ module.exports = {
     "./src/**/*.{html,ts}"
   ],
   theme: {
-    extend: {},
+    colors: {
+      white: "#ffffff",
+      lightgray: "#d6e2f0",
+      grayishblue: "#7b879d",
+      darkblue: "#1f3251"
+    },
+    extend: {
+      fontFamily: {
+        'outfit': ['Outfit', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }
