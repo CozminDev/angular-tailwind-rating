@@ -1,27 +1,37 @@
-# AngularTailwindTemplate
+# Frontend Mentor - QR code component solution
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Development server
+## Table of contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## Code scaffolding
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Overview
 
-## Build
+### Screenshot
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![](./screenshot.jpg)
 
-## Running unit tests
+### Links
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Solution URL: https://github.com/CozminDev/angular-tailwind-qr-code
+- Live Site URL: https://cozmindev.github.io/angular-tailwind-qr-code/
 
-## Running end-to-end tests
+## My process
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Built with
 
-## Further help
+- [Angular](https://angular.io/) - JS framework
+- [Tailwind](https://tailwindcss.com/) - CSS framework
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Author
+
+- Frontend Mentor - https://www.frontendmentor.io/profile/CozminDev
