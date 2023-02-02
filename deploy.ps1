@@ -1,0 +1,1 @@
+ng deploy --base-href=https://CozminDev.github.io/angular-tailwind-rating/ --name=CozminDev --email=cozmindeveloper@yahoo.com
